@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -xe
+
 input="./input.txt"
 
 hpos=0
